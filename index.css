@@ -1,0 +1,36 @@
+table{
+    background-color: rgb(255, 230, 0);
+    border: 2px solid rgb(217, 54, 54);
+    margin: auto;
+    margin-top: 10vw;
+    width: 50vw;
+    border-collapse: collapse;
+    height: auto;
+    align-items: center;
+}
+thead{
+    width: auto;
+    height: auto;
+}
+
+th{
+    font-weight: bolder;
+}
+td{
+    border: 2px solid black;
+    padding: .5vw;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.colhead{
+    width: auto;
+    height: auto;
+    font-weight: bolder;
+    padding: .8vw;
+}
+tbody{
+    width: auto;
+    height: auto;
+}
